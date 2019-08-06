@@ -13,7 +13,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     var $VersionOfSizeAndFormTypeMetaData = "1.0.0";
 
     var $SizeAndFormTypeMetaData = await fetch(
-        `https://unpkg.com/@tervis/TervisProductSizeAndFormTypeMetadata@${$VersionOfSizeAndFormTypeMetaData}/TervisProductSizeAndFormTypeMetadata.json`
+        `https://unpkg.com/@tervis/tervisproductsizeandformtypemetadata@${$VersionOfSizeAndFormTypeMetaData}/TervisProductSizeAndFormTypeMetadata.json`
     ).then($Response => $Response.json())
 
     Add_MemberScriptProperty({
@@ -107,6 +107,6 @@ export async function Get_ColorCodeToMarketingNameMapping() {
 
     var versionOfColorCodeToMarketingNameMapping = "1.0.0";
 
-    return await fetch(`https://unpkg.com/@tervis/TervisProductSizeAndFormTypeMetadata@${versionOfColorCodeToMarketingNameMapping}/ColorCodeToMarketingNameMapping.json`)
+    return await fetch(`https://unpkg.com/@tervis/tervisproductsizeandformtypemetadata@${versionOfColorCodeToMarketingNameMapping}/ColorCodeToMarketingNameMapping.json`)
     .then(response => response.json())
 }
