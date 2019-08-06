@@ -1,0 +1,374 @@
+[
+    {
+        "ColorCode":  "BK1",
+        "MarketingName":  "Black"
+    },
+    {
+        "ColorCode":  "BK2",
+        "MarketingName":  "Black"
+    },
+    {
+        "ColorCode":  "BK3",
+        "MarketingName":  "Black"
+    },
+    {
+        "ColorCode":  "BK4",
+        "MarketingName":  "Black"
+    },
+    {
+        "ColorCode":  "BK5",
+        "MarketingName":  "Black"
+    },
+    {
+        "ColorCode":  "BK6",
+        "MarketingName":  "Black"
+    },
+    {
+        "ColorCode":  "BK7",
+        "MarketingName":  "Black"
+    },
+    {
+        "ColorCode":  "BL1",
+        "MarketingName":  "Blue"
+    },
+    {
+        "ColorCode":  "BL10",
+        "MarketingName":  "Turquoise"
+    },
+    {
+        "ColorCode":  "BL11",
+        "MarketingName":  "Turquoise"
+    },
+    {
+        "ColorCode":  "BL13",
+        "MarketingName":  "Rocket Blue"
+    },
+    {
+        "ColorCode":  "BL14",
+        "MarketingName":  "Blue Infusion"
+    },
+    {
+        "ColorCode":  "BL16",
+        "MarketingName":  "Royal Blue "
+    },
+    {
+        "ColorCode":  "BL17",
+        "MarketingName":  "Navy "
+    },
+    {
+        "ColorCode":  "BL18",
+        "MarketingName":  "Turquoise"
+    },
+    {
+        "ColorCode":  "BL19",
+        "MarketingName":  "Beachfront Blue"
+    },
+    {
+        "ColorCode":  "BL2",
+        "MarketingName":  "Blue"
+    },
+    {
+        "ColorCode":  "BL21",
+        "MarketingName":  "Blue"
+    },
+    {
+        "ColorCode":  "BL23",
+        "MarketingName":  "Blue"
+    },
+    {
+        "ColorCode":  "BL24",
+        "MarketingName":  "Seafoam Blue"
+    },
+    {
+        "ColorCode":  "BL25",
+        "MarketingName":  "Indigo"
+    },
+    {
+        "ColorCode":  "BL26",
+        "MarketingName":  "Blue Sky"
+    },
+    {
+        "ColorCode":  "BL3",
+        "MarketingName":  "Navy"
+    },
+    {
+        "ColorCode":  "BL8",
+        "MarketingName":  "Blue"
+    },
+    {
+        "ColorCode":  "BL9",
+        "MarketingName":  "Target Blue"
+    },
+    {
+        "ColorCode":  "BR2",
+        "MarketingName":  "Brown"
+    },
+    {
+        "ColorCode":  "BR6",
+        "MarketingName":  "Brown"
+    },
+    {
+        "ColorCode":  "CL1",
+        "MarketingName":  "Clear"
+    },
+    {
+        "ColorCode":  "CL2",
+        "MarketingName":  "Frosted"
+    },
+    {
+        "ColorCode":  "GD1",
+        "MarketingName":  "Rose Gold"
+    },
+    {
+        "ColorCode":  "GN1",
+        "MarketingName":  "Green"
+    },
+    {
+        "ColorCode":  "GN10",
+        "MarketingName":  "Hunter Green"
+    },
+    {
+        "ColorCode":  "GN11",
+        "MarketingName":  "Lime Green"
+    },
+    {
+        "ColorCode":  "GN12",
+        "MarketingName":  "Coastal Green"
+    },
+    {
+        "ColorCode":  "GN13",
+        "MarketingName":  "Rainforest Green"
+    },
+    {
+        "ColorCode":  "GN15",
+        "MarketingName":  "Green"
+    },
+    {
+        "ColorCode":  "GN16",
+        "MarketingName":  "Olive"
+    },
+    {
+        "ColorCode":  "GN2",
+        "MarketingName":  "Hunter Green"
+    },
+    {
+        "ColorCode":  "GN5",
+        "MarketingName":  "Green"
+    },
+    {
+        "ColorCode":  "GN6",
+        "MarketingName":  "Lime Green"
+    },
+    {
+        "ColorCode":  "GN7",
+        "MarketingName":  "Lime Green"
+    },
+    {
+        "ColorCode":  "GN9",
+        "MarketingName":  "Mint Sprig"
+    },
+    {
+        "ColorCode":  "GY1",
+        "MarketingName":  "Gray"
+    },
+    {
+        "ColorCode":  "GY3",
+        "MarketingName":  "Moondust Gray"
+    },
+    {
+        "ColorCode":  "GY4",
+        "MarketingName":  "Silver Violet"
+    },
+    {
+        "ColorCode":  "GY5",
+        "MarketingName":  "Gray Metallic"
+    },
+    {
+        "ColorCode":  "MR1",
+        "MarketingName":  "Maroon "
+    },
+    {
+        "ColorCode":  "MR2",
+        "MarketingName":  "Maroon "
+    },
+    {
+        "ColorCode":  "OR2",
+        "MarketingName":  "Orange"
+    },
+    {
+        "ColorCode":  "OR5",
+        "MarketingName":  "Neon Orange"
+    },
+    {
+        "ColorCode":  "OR6",
+        "MarketingName":  "Orange "
+    },
+    {
+        "ColorCode":  "OR7",
+        "MarketingName":  "Sunburst Orange"
+    },
+    {
+        "ColorCode":  "PK1",
+        "MarketingName":  "Pink"
+    },
+    {
+        "ColorCode":  "PK10",
+        "MarketingName":  "Neon Pink"
+    },
+    {
+        "ColorCode":  "PK11",
+        "MarketingName":  "Playful Pink"
+    },
+    {
+        "ColorCode":  "PK12",
+        "MarketingName":  "Passion Pink "
+    },
+    {
+        "ColorCode":  "PK13",
+        "MarketingName":  "Pink"
+    },
+    {
+        "ColorCode":  "PK14",
+        "MarketingName":  "Pink Sunset"
+    },
+    {
+        "ColorCode":  "PK2",
+        "MarketingName":  "Fuchsia"
+    },
+    {
+        "ColorCode":  "PK3",
+        "MarketingName":  "Pink"
+    },
+    {
+        "ColorCode":  "PK5",
+        "MarketingName":  "Fuchsia"
+    },
+    {
+        "ColorCode":  "PK9",
+        "MarketingName":  "Pink"
+    },
+    {
+        "ColorCode":  "PU1",
+        "MarketingName":  "Purple"
+    },
+    {
+        "ColorCode":  "PU10",
+        "MarketingName":  "Lakeside Lavender"
+    },
+    {
+        "ColorCode":  "PU11",
+        "MarketingName":  "Royal Purple"
+    },
+    {
+        "ColorCode":  "PU12",
+        "MarketingName":  "Parachute Purple"
+    },
+    {
+        "ColorCode":  "PU15",
+        "MarketingName":  "Lilac"
+    },
+    {
+        "ColorCode":  "PU16",
+        "MarketingName":  "Purple Aurora"
+    },
+    {
+        "ColorCode":  "PU3",
+        "MarketingName":  "Purple"
+    },
+    {
+        "ColorCode":  "PU6",
+        "MarketingName":  "Purple"
+    },
+    {
+        "ColorCode":  "PU7",
+        "MarketingName":  "Royal Purple"
+    },
+    {
+        "ColorCode":  "PU8",
+        "MarketingName":  "Plum Twist"
+    },
+    {
+        "ColorCode":  "PU9",
+        "MarketingName":  "Royal Purple"
+    },
+    {
+        "ColorCode":  "RD1",
+        "MarketingName":  "Red"
+    },
+    {
+        "ColorCode":  "RD10",
+        "MarketingName":  "Cherry Fizz"
+    },
+    {
+        "ColorCode":  "RD11",
+        "MarketingName":  "Red"
+    },
+    {
+        "ColorCode":  "RD12",
+        "MarketingName":  "Fire Engine Red"
+    },
+    {
+        "ColorCode":  "RD13",
+        "MarketingName":  "Red"
+    },
+    {
+        "ColorCode":  "RD14",
+        "MarketingName":  "Coral"
+    },
+    {
+        "ColorCode":  "RD15",
+        "MarketingName":  "Red"
+    },
+    {
+        "ColorCode":  "RD3",
+        "MarketingName":  "Red"
+    },
+    {
+        "ColorCode":  "RD6",
+        "MarketingName":  "Red"
+    },
+    {
+        "ColorCode":  "WH1",
+        "MarketingName":  "White"
+    },
+    {
+        "ColorCode":  "WH3",
+        "MarketingName":  "Beachfront Blue"
+    },
+    {
+        "ColorCode":  "WH4",
+        "MarketingName":  "Coastal Green"
+    },
+    {
+        "ColorCode":  "WH5",
+        "MarketingName":  "Lakeside Lavender"
+    },
+    {
+        "ColorCode":  "WH6",
+        "MarketingName":  "Pearl"
+    },
+    {
+        "ColorCode":  "YE1",
+        "MarketingName":  "Yellow"
+    },
+    {
+        "ColorCode":  "YE4",
+        "MarketingName":  "Yellow"
+    },
+    {
+        "ColorCode":  "YE5",
+        "MarketingName":  "Neon Yellow"
+    },
+    {
+        "ColorCode":  "YE6",
+        "MarketingName":  "Neon Yellow"
+    },
+    {
+        "ColorCode":  "YE8",
+        "MarketingName":  "Yellow "
+    },
+    {
+        "ColorCode":  "YE9",
+        "MarketingName":  "Bumblebee Yellow"
+    }
+]

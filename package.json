@@ -1,0 +1,13 @@
+{
+  "name": "@tervis/tervisproductsizeandformtypemetadata",
+  "version": "1.0.0",
+  "main": "TervisProductSizeAndFormTypeMetadata.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://tervis.visualstudio.com/TervisCustomyzer/_git/TervisProductSizeAndFormTypeMetadata"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
