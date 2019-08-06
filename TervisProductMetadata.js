@@ -16,12 +16,12 @@ export async function Get_TervisProductMetaData() {
 
     var $VersionOfProductMetaData = "1.0.3";
 
-    var $ProductMetaData = await fetch(
+    var $ProductMetadata = await fetch(
         `https://unpkg.com/@tervis/tervisproductmetadata@${$VersionOfProductMetaData}/TervisProductMetadata.json`
     ).then($Response => $Response.json())
 
     Add_MemberScriptProperty({
-        $InputObject: $ProductMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "VignettePositionValueForImageOfFront",
         $Value: function () {
             return 0
@@ -29,7 +29,7 @@ export async function Get_TervisProductMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $ProductMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "VignettePositionValueForImageOfRight",
         $Value: function () {
             return -this.VignettePositionStepAmountToRotateBy90Degrees
@@ -37,7 +37,7 @@ export async function Get_TervisProductMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $ProductMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "VignettePositionValueForImageOfLeft",
         $Value: function () {
             return this.VignettePositionStepAmountToRotateBy90Degrees
@@ -45,7 +45,7 @@ export async function Get_TervisProductMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $ProductMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "VignettePositionValueForImageOfBack",
         $Value: function () {
             return -this.VignettePositionStepAmountToRotateBy90Degrees * 2
@@ -53,7 +53,7 @@ export async function Get_TervisProductMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $ProductMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "SizeAndFormTypes",
         $Value: function (){
             if (Array.isArray(this.FormType)) {
@@ -69,7 +69,7 @@ export async function Get_TervisProductMetaData() {
     })
 
     Add_MemberScriptProperty ({
-        $InputObject: $ProductMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "PrintImageTemplateNames",
         $Value: function (){
             if (this.ImageTemplateName && this.ImageTemplateName.Print) {
@@ -98,7 +98,7 @@ export async function Get_TervisProductMetaData() {
         }
     })
 
-    return $ProductMetaData
+    return $ProductMetadata
 }
 
 export async function Get_TervisProductColorCodeToMarketingNameMapping() {
