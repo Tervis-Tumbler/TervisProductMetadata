@@ -2,7 +2,7 @@ import { Add_MemberScriptProperty } from '@tervis/tervisutilityjs'
 
 const $IsBrowser = !(typeof window === 'undefined');
 
-export async function Get_SizeAndFormTypeMetaData() {
+export async function Get_TervisProductMetaData() {
     //duplicated to work around top level await, remove once top level await is supported
     if (!$IsBrowser) {
         var fetch = (await import("node-fetch")).default
@@ -10,14 +10,14 @@ export async function Get_SizeAndFormTypeMetaData() {
         var fetch = window.fetch
     }
 
-    var $VersionOfSizeAndFormTypeMetaData = "1.0.0";
+    var $VersionOfProductMetaData = "1.0.0";
 
-    var $SizeAndFormTypeMetaData = await fetch(
-        `https://unpkg.com/@tervis/tervisproductsizeandformtypemetadata@${$VersionOfSizeAndFormTypeMetaData}/TervisProductSizeAndFormTypeMetadata.json`
+    var $ProductMetaData = await fetch(
+        `https://unpkg.com/@tervis/tervisproductmetadata@${$VersionOfProductMetaData}/TervisProductMetadata.json`
     ).then($Response => $Response.json())
 
     Add_MemberScriptProperty({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetaData,
         $Name: "VignettePositionValueForImageOfFront",
         $Value: function () {
             return 0
@@ -25,7 +25,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetaData,
         $Name: "VignettePositionValueForImageOfRight",
         $Value: function () {
             return -this.VignettePositionStepAmountToRotateBy90Degrees
@@ -33,7 +33,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetaData,
         $Name: "VignettePositionValueForImageOfLeft",
         $Value: function () {
             return this.VignettePositionStepAmountToRotateBy90Degrees
@@ -41,7 +41,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetaData,
         $Name: "VignettePositionValueForImageOfBack",
         $Value: function () {
             return -this.VignettePositionStepAmountToRotateBy90Degrees * 2
@@ -49,7 +49,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     })
 
     Add_MemberScriptProperty({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetaData,
         $Name: "SizeAndFormTypes",
         $Value: function (){
             if (Array.isArray(this.FormType)) {
@@ -65,7 +65,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     })
 
     Add_MemberScriptProperty ({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetaData,
         $Name: "PrintImageTemplateNames",
         $Value: function (){
             if (this.ImageTemplateName && this.ImageTemplateName.Print) {
@@ -75,7 +75,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     })
 
     Add_MemberScriptProperty ({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "DecorationProofAspectRatio",
         $Value: function (){
             if (this.PrintImageDimensions) {
@@ -85,7 +85,7 @@ export async function Get_SizeAndFormTypeMetaData() {
     })
 
     Add_MemberScriptProperty ({
-        $InputObject: $SizeAndFormTypeMetaData,
+        $InputObject: $ProductMetadata,
         $Name: "DecorationProofHeightOnVirtual",
         $Value: function (){
             if (this.DecorationProofAspectRatio) {
@@ -94,10 +94,10 @@ export async function Get_SizeAndFormTypeMetaData() {
         }
     })
 
-    return $SizeAndFormTypeMetaData
+    return $ProductMetaData
 }
 
-export async function Get_ColorCodeToMarketingNameMapping() {
+export async function Get_TervisProductColorCodeToMarketingNameMapping() {
     //duplicated to work around top level await, remove once top level await is supported
     if (!isBrowser) {
         var fetch = (await import("node-fetch")).default
@@ -107,6 +107,6 @@ export async function Get_ColorCodeToMarketingNameMapping() {
 
     var versionOfColorCodeToMarketingNameMapping = "1.0.0";
 
-    return await fetch(`https://unpkg.com/@tervis/tervisproductsizeandformtypemetadata@${versionOfColorCodeToMarketingNameMapping}/ColorCodeToMarketingNameMapping.json`)
+    return await fetch(`https://unpkg.com/@tervis/tervisproductmetadata@${versionOfColorCodeToMarketingNameMapping}/ColorCodeToMarketingNameMapping.json`)
     .then(response => response.json())
 }
