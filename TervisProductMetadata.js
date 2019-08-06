@@ -14,7 +14,7 @@ export async function Get_TervisProductMetaData() {
         var fetch = window.fetch
     }
 
-    var $VersionOfProductMetaData = "1.0.0";
+    var $VersionOfProductMetaData = "1.0.3";
 
     var $ProductMetaData = await fetch(
         `https://unpkg.com/@tervis/tervisproductmetadata@${$VersionOfProductMetaData}/TervisProductMetadata.json`
@@ -109,7 +109,7 @@ export async function Get_TervisProductColorCodeToMarketingNameMapping() {
         var fetch = window.fetch
     }
 
-    var versionOfColorCodeToMarketingNameMapping = "1.0.0";
+    var versionOfColorCodeToMarketingNameMapping = "1.0.3";
 
     return await fetch(`https://unpkg.com/@tervis/tervisproductmetadata@${versionOfColorCodeToMarketingNameMapping}/ColorCodeToMarketingNameMapping.json`)
     .then(response => response.json())
