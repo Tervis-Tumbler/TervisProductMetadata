@@ -171,6 +171,7 @@
             "Height": 1094
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 853,
+        "DecorationProofCenterPointXRelativeToVirtualBackground": 498,
         "DecorationProofWidthOnVirtual": 923,
         "VignettePositionStepAmountToRotateBy90Degrees": 8,
         "OrderNumberPosition": {
