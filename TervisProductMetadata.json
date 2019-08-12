@@ -42,10 +42,42 @@
     },
     {
         "Size": 9,
-        "FormType": [
-            "SWG",
-            "WINE"
-        ],
+        "FormType": "SWG",
+        "PrintImageDimensions": {
+            "Width": 3260,
+            "Height": 962
+        },
+        "ArtBoardDimensions": {
+            "Width": 2870,
+            "Height": 757
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 862,
+        "DecorationProofCenterPointXRelativeToVirtualBackground": 570,
+        "DecorationProofWidthOnVirtual": 1082,
+        "VignettePositionStepAmountToRotateBy90Degrees": 16,
+        "OrderNumberPosition": {
+            "Height": 1100,
+            "Width": 50
+        },
+        "OrderNumberLayerSize": {
+            "Width": 600,
+            "Height": 101
+        },
+        "ImageTemplateName": {
+            "Final": "9oz_wrap_final",
+            "Mask": "9oz_wrap_mask",
+            "Vignette": "9_Warp_trans",
+            "Base": "9oz_base2",
+            "Print": {
+                "Scene7": "9_cstm_print",
+                "InDesign": "9WINE-cstm-print.idml"
+            },
+            "DiecutterCalibrationCheckLine": "9WINEDiecutterCalibrationCheckLine"
+        }
+    },
+    {
+        "Size": 9,
+        "FormType": "WINE",
         "PrintImageDimensions": {
             "Width": 3260,
             "Height": 962
