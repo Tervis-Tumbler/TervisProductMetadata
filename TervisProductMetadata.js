@@ -98,6 +98,17 @@ export async function Get_TervisProductMetaData() {
         }
     })
 
+    $ProductMetadata.forEach(
+        $ProductMetadataInstance => 
+        Add_MemberScriptProperty ({
+            $InputObject: $ProductMetadataInstance.ImageTemplateName,
+            $Name: "Silhouette",
+            $Value: function (){
+                `${$ProductMetadataInstance.Size}${$ProductMetadataInstance.FormType}1`
+            }
+        })
+    )
+
     return $ProductMetadata
 }
 
