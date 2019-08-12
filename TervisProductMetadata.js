@@ -104,7 +104,11 @@ export async function Get_TervisProductMetaData() {
             $InputObject: $ProductMetadataInstance.ImageTemplateName,
             $Name: "Silhouette",
             $Value: function (){
-                `${$ProductMetadataInstance.Size}${$ProductMetadataInstance.FormType}1`
+                if (Array.isArray($ProductMetadataInstance.FormType)) {
+                    return `${$ProductMetadataInstance.Size}${$ProductMetadataInstance.FormType[0]}1`
+                } else {
+                    return `${$ProductMetadataInstance.Size}${$ProductMetadataInstance.FormType}1`
+                }
             }
         })
     )
