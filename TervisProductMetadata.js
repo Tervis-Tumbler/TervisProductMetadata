@@ -99,6 +99,14 @@ export async function Get_TervisProductMetaData() {
     })
 
     $ProductMetadata.forEach(
+        $ProductMetadataInstance => {
+            if (!$ProductMetadataInstance.ImageTemplateName) {
+                $ProductMetadataInstance.ImageTemplateName = {}
+            }
+        }
+    )
+
+    $ProductMetadata.forEach(
         $ProductMetadataInstance => 
         Add_MemberScriptProperty ({
             $InputObject: $ProductMetadataInstance.ImageTemplateName,
