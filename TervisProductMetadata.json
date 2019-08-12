@@ -2,6 +2,7 @@
     {
         "Size": 2,
         "FormType": "SHO",
+        "MarketingName": "Collectible",
         "DecorationProofCenterPointYRelativeToVirtualBackground": 865,
         "DecorationProofWidthOnVirtual": 711,
         "VignettePositionStepAmountToRotateBy90Degrees": 8
@@ -9,6 +10,7 @@
     {
         "Size": 6,
         "FormType": "SIP",
+        "MarketingName": "My First Tervis™ Sippy Cup",
         "PrintImageDimensions": {
             "Width": 2605,
             "Height": 1051
@@ -43,6 +45,7 @@
     {
         "Size": 9,
         "FormType": "SWG",
+        "MarketingName": "Stemless Wine Glass",
         "PrintImageDimensions": {
             "Width": 3260,
             "Height": 962
@@ -78,6 +81,7 @@
     {
         "Size": 9,
         "FormType": "WINE",
+        "MarketingName": "Wine Glass",
         "PrintImageDimensions": {
             "Width": 3260,
             "Height": 962
@@ -113,6 +117,7 @@
     {
         "Size": 10,
         "FormType": "WAV",
+        "MarketingName": "10oz Wavy Tumbler",
         "PrintImageDimensions": {
             "Width": 2764,
             "Height": 1640
@@ -147,11 +152,13 @@
     {
         "Size": 12,
         "FormType": "DWT",
+        "MarketingName": "12oz Tumbler",
         "VignettePositionStepAmountToRotateBy90Degrees": 8
     },
     {
         "Size": 16,
         "FormType": "DWT",
+        "MarketingName": "16oz Tumbler",
         "ArtBoardDimensions": {
             "Width": 2717,
             "Height": 1750
@@ -194,6 +201,7 @@
     {
         "Size": 16,
         "FormType": "MUG",
+        "MarketingName": "16oz Mug",
         "PrintImageDimensions": {
             "Width": 3628,
             "Height": 1339
@@ -229,6 +237,7 @@
     {
         "Size": 16,
         "FormType": "BEER",
+        "MarketingName": "16oz Beer Mug",
         "PrintImageDimensions": {
             "Width": 3074,
             "Height": 1748
@@ -264,11 +273,13 @@
     {
         "Size": 16,
         "FormType": "TALL",
+        "MarketingName": "Tall 16oz Tumbler",
         "VignettePositionStepAmountToRotateBy90Degrees": 8
     },
     {
         "Size": 24,
         "FormType": "DWT",
+        "MarketingName": "24oz Tumbler",
         "PrintImageDimensions": {
             "Width": 3574,
             "Height": 2402
@@ -311,6 +322,7 @@
     {
         "Size": 24,
         "FormType": "WB",
+        "MarketingName": "24oz Water Bottle",
         "PrintImageDimensions": {
             "Width": 2977,
             "Height": 2420
@@ -345,6 +357,7 @@
     {
         "Size": 12,
         "FormType": "SS",
+        "MarketingName": "12oz Stainless Steel",
         "DecorationProofCenterPointYRelativeToVirtualBackground": 851,
         "DecorationProofWidthOnVirtual": 1095,
         "VignettePositionStepAmountToRotateBy90Degrees": 21
@@ -352,11 +365,13 @@
     {
         "Size": 17,
         "FormType": "SS",
+        "MarketingName": "17oz Stainless Steel Bottle",
         "VignettePositionStepAmountToRotateBy90Degrees": 15.784
     },
     {
         "Size": 30,
         "FormType": "SS",
+        "MarketingName": "30oz Stainless Steel",
         "PrintImageDimensions": {
             "Width": 3395,
             "Height": 2409
@@ -391,6 +406,7 @@
     {
         "Size": 20,
         "FormType": "SS",
+        "MarketingName": "20oz Stainless Steel",
         "PrintImageDimensions": {
             "Width": 2974,
             "Height": 2032
@@ -425,6 +441,7 @@
     {
         "Size": 24,
         "FormType": "SS",
+        "MarketingName": "24oz Stainless Steel Water Bottle",
         "PrintImageDimensions": {
             "Width": 2916,
             "Height": 2367
@@ -459,6 +476,7 @@
     {
         "Size": 87,
         "FormType": "ICE",
+        "MarketingName": "Ice Bucket",
         "VignettePositionStepAmountToRotateBy90Degrees": 8
     }
 ]
