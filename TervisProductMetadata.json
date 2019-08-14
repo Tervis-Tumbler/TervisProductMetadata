@@ -358,6 +358,10 @@
         "Size": 12,
         "FormType": "SS",
         "MarketingName": "12oz Stainless Steel",
+        "ArtBoardDimensions": {
+            "Width": 3378,
+            "Height": 1476
+        },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 851,
         "DecorationProofWidthOnVirtual": 1095,
         "VignettePositionStepAmountToRotateBy90Degrees": 21
@@ -366,6 +370,10 @@
         "Size": 17,
         "FormType": "SS",
         "MarketingName": "17oz Stainless Steel Bottle",
+        "ArtBoardDimensions": {
+            "Width": 2367,
+            "Height": 2525
+        },
         "VignettePositionStepAmountToRotateBy90Degrees": 15.784
     },
     {

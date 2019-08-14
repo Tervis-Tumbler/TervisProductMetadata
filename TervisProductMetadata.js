@@ -178,7 +178,6 @@ export async function Get_TervisProductImageTemplateName ({
     }
 }
 
-
 export async function Get_TervisProductMetaDataUsingIndex ({
     $Size,
     $FormType
