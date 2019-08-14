@@ -358,6 +358,10 @@
         "Size": 12,
         "FormType": "SS",
         "MarketingName": "12oz Stainless Steel",
+        "PrintImageDimensions": {
+            "Width": 3378,
+            "Height": 1476
+        },
         "ArtBoardDimensions": {
             "Width": 3378,
             "Height": 1476
@@ -370,6 +374,10 @@
         "Size": 17,
         "FormType": "SS",
         "MarketingName": "17oz Stainless Steel Bottle",
+        "PrintImageDimensions": {
+            "Width": 2367,
+            "Height": 2525
+        },
         "ArtBoardDimensions": {
             "Width": 2367,
             "Height": 2525
