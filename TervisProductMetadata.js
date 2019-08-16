@@ -204,6 +204,14 @@ export async function Get_TervisProductColorCodeToMarketingNameIndex () {
     return $ColorCodeToMarketingNameIndex
 }
 
+
+export async function Get_TervisProductColorMarketingNameUsingIndex ({
+    $ColorCode
+}) {
+    var $ColorCodeToMarketingNameIndex = await Get_TervisProductColorCodeToMarketingNameIndex()
+    return $ColorCodeToMarketingNameIndex[$ColorCode]
+}
+
 export function Get_TervisProductSizeAndFormTypeFromString ({
     $String
   }) {
