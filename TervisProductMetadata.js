@@ -126,7 +126,7 @@ export async function Get_TervisProductMetaData() {
 
 export async function Get_TervisProductColorCodeToMarketingNameMapping() {
     //duplicated to work around top level await, remove once top level await is supported
-    if (!isBrowser) {
+    if (!$IsBrowser) {
         var fetch = (await import("node-fetch")).default
     } else {
         var fetch = window.fetch
