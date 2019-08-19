@@ -382,7 +382,17 @@
             "Width": 2367,
             "Height": 2525
         },
-        "VignettePositionStepAmountToRotateBy90Degrees": 15.784
+        "VignettePositionStepAmountToRotateBy90Degrees": 15.784,
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "SS_17oz_wrap_mask",
+            "Vignette": "",
+            "Base": "SS_17oz_base2",
+            "Print": {
+                "Scene7": "17SS_cstm_print",
+                "InDesign": "17SS-cstm-print.idml"
+            }
+        }
     },
     {
         "Size": 30,
