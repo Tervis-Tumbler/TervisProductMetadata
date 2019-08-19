@@ -53,7 +53,7 @@
     },
     {
         "ColorCode":  "BL17",
-        "MarketingName":  "Navy "
+        "MarketingName":  "Navy"
     },
     {
         "ColorCode":  "BL18",
@@ -189,7 +189,7 @@
     },
     {
         "ColorCode":  "MR2",
-        "MarketingName":  "Maroon "
+        "MarketingName":  "Maroon"
     },
     {
         "ColorCode":  "OR2",
@@ -201,7 +201,7 @@
     },
     {
         "ColorCode":  "OR6",
-        "MarketingName":  "Orange "
+        "MarketingName":  "Orange"
     },
     {
         "ColorCode":  "OR7",
@@ -221,7 +221,7 @@
     },
     {
         "ColorCode":  "PK12",
-        "MarketingName":  "Passion Pink "
+        "MarketingName":  "Passion Pink"
     },
     {
         "ColorCode":  "PK13",
@@ -328,6 +328,10 @@
         "MarketingName":  "Red"
     },
     {
+        "ColorCode":  "SS1",
+        "MarketingName":  "Stainless Steel"
+    },
+    {
         "ColorCode":  "WH1",
         "MarketingName":  "White"
     },
@@ -365,7 +369,7 @@
     },
     {
         "ColorCode":  "YE8",
-        "MarketingName":  "Yellow "
+        "MarketingName":  "Yellow"
     },
     {
         "ColorCode":  "YE9",
