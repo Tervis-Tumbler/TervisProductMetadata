@@ -389,7 +389,7 @@
             "Vignette": "",
             "Base": "SS_17oz_base2",
             "Print": {
-                "Scene7": "17SS_cstm_print",
+                "Scene7": "SS17_cstm_print",
                 "InDesign": "17SS-cstm-print.idml"
             }
         }
