@@ -145,12 +145,12 @@ export async function Get_TervisProductPrintImageTemplateSizeAndFormType ({
     let {Size, FormType} = $PrintImageTemplateNameToSizeAndFormTypeIndex[$PrintImageTemplateName]
     
     if (Array.isArray(FormType)) {
-        var $FormType = FormType[0]
+        var $ProductFormType = FormType[0]
     } else {
-        var $FormType = FormType
+        var $ProductFormType = FormType
     }
     
-    return {$Size: Size, $FormType}
+    return {$ProductSize: Size, $ProductFormType}
 }
 
 var $SizeAndFormTypeToImageTemplateNamesIndex
@@ -164,13 +164,13 @@ async function Get_SizeAndFormTypeToImageTemplateNamesIndex () {
 }
 
 export async function Get_TervisProductImageTemplateName ({
-    $Size,
-    $FormType,
+    $ProductSize,
+    $ProductFormType,
     $TemplateType,
     $PrintTemplateType
 }) {
     var $SizeAndFormTypeToImageTemplateNamesIndex = await Get_SizeAndFormTypeToImageTemplateNamesIndex()
-    let $Template = $SizeAndFormTypeToImageTemplateNamesIndex[`${$Size}${$FormType}`].ImageTemplateName[$TemplateType]
+    let $Template = $SizeAndFormTypeToImageTemplateNamesIndex[`${$ProductSize}${$ProductFormType}`].ImageTemplateName[$TemplateType]
     if (!$PrintTemplateType) {
         return $Template
     } else {
@@ -179,11 +179,11 @@ export async function Get_TervisProductImageTemplateName ({
 }
 
 export async function Get_TervisProductMetaDataUsingIndex ({
-    $Size,
-    $FormType
+    $ProductSize,
+    $ProductFormType
 }) {
     var $SizeAndFormTypeToImageTemplateNamesIndex = await Get_SizeAndFormTypeToImageTemplateNamesIndex()
-    return $SizeAndFormTypeToImageTemplateNamesIndex[`${$Size}${$FormType}`]
+    return $SizeAndFormTypeToImageTemplateNamesIndex[`${$ProductSize}${$ProductFormType}`]
 }
 
 var $PrintImageTemplateNameToSizeAndFormTypeIndex
@@ -216,7 +216,7 @@ export function Get_TervisProductSizeAndFormTypeFromString ({
     $String
   }) {
     var $Results = ConvertFrom_StringUsingRegexCaptureGroup({
-        $Regex: /(?<$Size>\d*)(?<$FormType>\w*)/u,
+        $Regex: /(?<$ProductSize>\d*)(?<$ProductFormType>\w*)/u,
         $String
     })
 
