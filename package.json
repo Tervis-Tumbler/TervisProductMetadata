@@ -8,6 +8,7 @@
     "url": "https://tervis.visualstudio.com/TervisCustomyzer/_git/TervisProductMetadata"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.0",
+    "@tervis/tervisutilityjs": "^0.1.0"
   }
 }
