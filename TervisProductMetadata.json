@@ -375,12 +375,12 @@
         "FormType": "SS",
         "MarketingName": "17oz Stainless Steel Bottle",
         "PrintImageDimensions": {
-            "Width": 2367,
-            "Height": 2525
+            "Width": 2523,
+            "Height": 2367
         },
         "ArtBoardDimensions": {
-            "Width": 2367,
-            "Height": 2525
+            "Width": 2523,
+            "Height": 2367
         },
         "VignettePositionStepAmountToRotateBy90Degrees": 15.784,
         "ImageTemplateName": {
