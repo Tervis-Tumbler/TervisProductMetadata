@@ -21,7 +21,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 827,
         "DecorationProofWidthOnVirtual": 977,
-        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "VignettePositionStepAmountToRotateBy90Degrees": 7.48,
         "OrderNumberPosition": {
             "Height": 525,
             "Width": 85
@@ -333,7 +333,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 631,
         "DecorationProofWidthOnVirtual": 1054,
-        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "VignettePositionStepAmountToRotateBy90Degrees": 5.95,
         "OrderNumberPosition": {
             "Height": 2181,
             "Width": 50
