@@ -333,7 +333,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 631,
         "DecorationProofWidthOnVirtual": 1054,
-        "VignettePositionStepAmountToRotateBy90Degrees": 5.95,
+        "VignettePositionStepAmountToRotateBy90Degrees": 5.625,
         "OrderNumberPosition": {
             "Height": 2181,
             "Width": 50
