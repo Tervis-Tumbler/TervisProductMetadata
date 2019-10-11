@@ -159,13 +159,13 @@
         "Size": 16,
         "FormType": "DWT",
         "MarketingName": "16oz Tumbler",
-        "ArtBoardDimensions": {
-            "Width": 2717,
-            "Height": 1750
-        },
         "PrintImageDimensions": {
             "Width": 3084,
             "Height": 1873
+        },
+        "ArtBoardDimensions": {
+            "Width": 2717,
+            "Height": 1750
         },
         "ProofMaskDimensions": {
             "VerticalBar": {
