@@ -382,6 +382,8 @@
             "Width": 2525,
             "Height": 2367
         },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 716,
+        "DecorationProofWidthOnVirtual": 844,
         "VignettePositionStepAmountToRotateBy90Degrees": 15.784,
         "ImageTemplateName": {
             "Final": "",
