@@ -30,6 +30,12 @@
             "Width": 492,
             "Height": 83
         },
+        "Personalization": {
+            "MaximumSideCount" : 1,
+            "Font" : {
+                "Name": ["Monogram"]
+            }
+        },
         "ImageTemplateName": {
             "Final": "6oz_wrap_final",
             "Mask": "6oz_wrap_mask",
@@ -137,6 +143,15 @@
             "Width": 600,
             "Height": 101
         },
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 3
+                }
+            }
+        },
         "ImageTemplateName": {
             "Final": "10oz_wrap_final",
             "Mask": "10oz_wrap_mask",
@@ -153,7 +168,16 @@
         "Size": 12,
         "FormType": "DWT",
         "MarketingName": "12oz Tumbler",
-        "VignettePositionStepAmountToRotateBy90Degrees": 8
+        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 2
+                }
+            }
+        }
     },
     {
         "Size": 16,
@@ -182,6 +206,15 @@
         "OrderNumberLayerSize": {
             "Width": 600,
             "Height": 101
+        },
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 3
+                }
+            }
         },
         "ImageTemplateName": {
             "Final": "16oz_wrap_final",
@@ -222,6 +255,15 @@
             "Width": 483,
             "Height": 82
         },
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 3
+                }
+            }
+        },
         "ImageTemplateName": {
             "Final": "MUG_wrap_final",
             "Mask": "MUG_wrap_mask",
@@ -257,6 +299,15 @@
         "OrderNumberLayerSize": {
             "Width": 2613,
             "Height": 1614
+        },
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 3
+                }
+            }
         },
         "ImageTemplateName": {
             "Final": "BEER_wrap_final",
@@ -307,6 +358,15 @@
             "Width": 600,
             "Height": 101
         },
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 3
+                }
+            }
+        },
         "ImageTemplateName": {
             "Final": "24oz_wrap_final",
             "Mask": "24oz_wrap_mask",
@@ -342,6 +402,15 @@
             "Width": 600,
             "Height": 101
         },
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 2
+                }
+            }
+        },
         "ImageTemplateName": {
             "Final": "WB_wrap_final",
             "Mask": "WB_wrap_mask",
@@ -368,7 +437,16 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 851,
         "DecorationProofWidthOnVirtual": 1095,
-        "VignettePositionStepAmountToRotateBy90Degrees": 21
+        "VignettePositionStepAmountToRotateBy90Degrees": 21,
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 2
+                }
+            }
+        }
     },
     {
         "Size": 17,
@@ -490,6 +568,15 @@
             "Width": 380,
             "Height": 92
         },
+        "Personalization": {
+            "MaximumSideCount" : 2,
+            "Font" : {
+                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
+                "TextBoxStyle": {
+                    "MaximumLineCount": 2
+                }
+            }
+        },
         "ImageTemplateName": {
             "Final": "",
             "Mask": "SS_24oz_wrap_mask",
@@ -505,6 +592,12 @@
         "Size": 87,
         "FormType": "ICE",
         "MarketingName": "Ice Bucket",
-        "VignettePositionStepAmountToRotateBy90Degrees": 8
+        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "Personalization": {
+            "MaximumSideCount" : 1,
+            "Font" : {
+                "Name": ["Monogram"]
+            }
+        }
     }
 ]
