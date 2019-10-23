@@ -31,10 +31,8 @@
             "Height": 83
         },
         "Personalization": {
-            "MaximumSideCount" : 1,
-            "Font" : {
-                "Name": ["Monogram"]
-            }
+            "MaximumSideCount": 1,
+            "SupportedFontName": ["Monogram"]
         },
         "ImageTemplateName": {
             "Final": "6oz_wrap_final",
@@ -144,13 +142,9 @@
             "Height": 101
         },
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 3
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
             "Final": "10oz_wrap_final",
@@ -170,13 +164,9 @@
         "MarketingName": "12oz Tumbler",
         "VignettePositionStepAmountToRotateBy90Degrees": 8,
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 2
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         }
     },
     {
@@ -208,13 +198,9 @@
             "Height": 101
         },
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 3
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
             "Final": "16oz_wrap_final",
@@ -256,13 +242,9 @@
             "Height": 82
         },
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 3
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
             "Final": "MUG_wrap_final",
@@ -301,13 +283,9 @@
             "Height": 1614
         },
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 3
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
             "Final": "BEER_wrap_final",
@@ -359,13 +337,9 @@
             "Height": 101
         },
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 3
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
             "Final": "24oz_wrap_final",
@@ -403,13 +377,9 @@
             "Height": 101
         },
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 2
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
             "Final": "WB_wrap_final",
@@ -439,13 +409,9 @@
         "DecorationProofWidthOnVirtual": 1095,
         "VignettePositionStepAmountToRotateBy90Degrees": 21,
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 2
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         }
     },
     {
@@ -569,13 +535,9 @@
             "Height": 92
         },
         "Personalization": {
-            "MaximumSideCount" : 2,
-            "Font" : {
-                "Name": ["Script","Block U/L","Monogram","Initials Block","Initials Script"],
-                "TextBoxStyle": {
-                    "MaximumLineCount": 2
-                }
-            }
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
             "Final": "",
@@ -594,10 +556,8 @@
         "MarketingName": "Ice Bucket",
         "VignettePositionStepAmountToRotateBy90Degrees": 8,
         "Personalization": {
-            "MaximumSideCount" : 1,
-            "Font" : {
-                "Name": ["Monogram"]
-            }
+            "MaximumSideCount": 1,
+            "SupportedFontName": ["Monogram"]
         }
     }
 ]
