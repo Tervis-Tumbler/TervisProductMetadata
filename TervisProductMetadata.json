@@ -197,6 +197,10 @@
             "Width": 600,
             "Height": 101
         },
+        "VuMarkScene7PositionRelativeToPrintImageDeminsionsCenterPoint": {
+            "X": -23,
+            "Y": 445
+        },
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 3,
