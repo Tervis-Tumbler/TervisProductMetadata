@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://tervis.visualstudio.com/TervisCustomyzer/_git/TervisProductMetadata"
+    "url": "https://github.com/Tervis-Tumbler/TervisProductMetadata"
   },
   "dependencies": {
     "node-fetch": "^2.6.0",
