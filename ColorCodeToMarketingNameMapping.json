@@ -88,6 +88,10 @@
         "MarketingName":  "Blue Sky"
     },
     {
+        "ColorCode":  "BL28",
+        "MarketingName":  "Purist Blue"
+    },
+    {
         "ColorCode":  "BL3",
         "MarketingName":  "Navy"
     },
@@ -148,6 +152,14 @@
         "MarketingName":  "Olive"
     },
     {
+        "ColorCode":  "GN17",
+        "MarketingName":  "Neo Mint"
+    },
+    {
+        "ColorCode":  "GN18",
+        "MarketingName":  "Green"
+    },
+    {
         "ColorCode":  "GN2",
         "MarketingName":  "Hunter Green"
     },
@@ -181,7 +193,7 @@
     },
     {
         "ColorCode":  "GY5",
-        "MarketingName":  "Gray Metallic"
+        "MarketingName":  "Space Gray"
     },
     {
         "ColorCode":  "MR1",
@@ -196,16 +208,16 @@
         "MarketingName":  "Orange"
     },
     {
-        "ColorCode":  "OR5",
-        "MarketingName":  "Neon Orange"
-    },
-    {
         "ColorCode":  "OR6",
         "MarketingName":  "Orange"
     },
     {
         "ColorCode":  "OR7",
         "MarketingName":  "Sunburst Orange"
+    },
+    {
+        "ColorCode":  "OR9",
+        "MarketingName":  "Cantaloupe"
     },
     {
         "ColorCode":  "PK1",
@@ -272,6 +284,10 @@
         "MarketingName":  "Purple Aurora"
     },
     {
+        "ColorCode":  "PU17",
+        "MarketingName":  "Cassis"
+    },
+    {
         "ColorCode":  "PU3",
         "MarketingName":  "Purple"
     },
@@ -317,6 +333,10 @@
     },
     {
         "ColorCode":  "RD15",
+        "MarketingName":  "Red"
+    },
+    {
+        "ColorCode":  "RD16",
         "MarketingName":  "Red"
     },
     {

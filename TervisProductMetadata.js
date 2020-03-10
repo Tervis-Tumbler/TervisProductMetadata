@@ -132,7 +132,7 @@ export async function Get_TervisProductColorCodeToMarketingNameMapping() {
         var fetch = window.fetch
     }
 
-    var versionOfColorCodeToMarketingNameMapping = "1.0.14";
+    var versionOfColorCodeToMarketingNameMapping = "1.0.32";
 
     return await fetch(`https://unpkg.com/@tervis/tervisproductmetadata@${versionOfColorCodeToMarketingNameMapping}/ColorCodeToMarketingNameMapping.json`)
     .then(response => response.json())
