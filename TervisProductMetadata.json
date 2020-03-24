@@ -555,6 +555,24 @@
         }
     },
     {
+        "Size": 24,
+        "FormType": "WMB",
+        "MarketingName": "24oz Wide Mouth Bottle",
+        "PrintImageDimensions": {},
+        "ArtBoardDimensions": {},
+        "DecorationProofCenterPointXRelativeToVirtualBackground": 0,
+        "DecorationProofWidthOnVirtual": 999,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "TervisLogoSplitPosition": {},
+        "OrderNumberLayerSize": {},
+        "Personalization": {
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
+        "ImageTemplateName": {}
+    },
+    {
         "Size": 87,
         "FormType": "ICE",
         "MarketingName": "Ice Bucket",
