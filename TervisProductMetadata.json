@@ -579,7 +579,7 @@
         "ImageTemplateName": {
             "Final": "",
             "Mask": "WMB_24oz_wrap_mask",
-            "Vignette": "24WMB1",
+            "Vignette": "",
             "Base": "WMB_24oz_base2"
         }
     },
