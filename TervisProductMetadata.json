@@ -558,9 +558,15 @@
         "Size": 24,
         "FormType": "WMB",
         "MarketingName": "24oz Wide Mouth Bottle",
-        "PrintImageDimensions": {},
-        "ArtBoardDimensions": {},
-        "DecorationProofCenterPointXRelativeToVirtualBackground": 0,
+        "PrintImageDimensions": {
+            "Width": 2864,
+            "Height": 2506
+        },
+        "ArtBoardDimensions": {
+            "Width": 2864,
+            "Height": 2506
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
         "DecorationProofWidthOnVirtual": 999,
         "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
         "TervisLogoSplitPosition": {},
@@ -570,7 +576,12 @@
             "MaximumLineCount": 2,
             "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
-        "ImageTemplateName": {}
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "WMB_24oz_wrap_mask",
+            "Vignette": "24WMB1",
+            "Base": "WMB_24oz_base2"
+        }
     },
     {
         "Size": 87,
