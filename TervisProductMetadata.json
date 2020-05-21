@@ -578,7 +578,10 @@
             "Final": "",
             "Mask": "WMB_24oz_wrap_mask",
             "Vignette": "",
-            "Base": "WMB_24oz_base2"
+            "Base": "WMB_24oz_base2",
+            "Print": {
+                "InDesign": "24WMB-cstm-printColorInFront.idml"
+            }
         }
     },
     {
