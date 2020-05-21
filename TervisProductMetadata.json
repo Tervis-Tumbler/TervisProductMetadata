@@ -585,6 +585,66 @@
         }
     },
     {
+        "Size": 32,
+        "FormType": "WMB",
+        "MarketingName": "32oz Wide Mouth Bottle",
+        "PrintImageDimensions": {
+            "Width": 3410,
+            "Height": 2271
+        },
+        "ArtBoardDimensions": {
+            "Width": 3410,
+            "Height": 2271
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
+        "DecorationProofWidthOnVirtual": 999,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "Personalization": {
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "WMB_32oz_wrap_mask",
+            "Vignette": "",
+            "Base": "WMB_32oz_base2",
+            "Print": {
+                "InDesign": "32WMB-cstm-printColorInFront.idml"
+            }
+        }
+    },
+    {
+        "Size": 40,
+        "FormType": "WMB",
+        "MarketingName": "40oz Wide Mouth Bottle",
+        "PrintImageDimensions": {
+            "Width": 3410,
+            "Height": 2823
+        },
+        "ArtBoardDimensions": {
+            "Width": 3410,
+            "Height": 2823
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
+        "DecorationProofWidthOnVirtual": 999,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "Personalization": {
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "WMB_40_wrap_mask",
+            "Vignette": "",
+            "Base": "WMB_40oz_base2",
+            "Print": {
+                "InDesign": "40WMB-cstm-printColorInFront.idml"
+            }
+        }
+    },
+    {
         "Size": 87,
         "FormType": "ICE",
         "MarketingName": "Ice Bucket",
