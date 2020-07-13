@@ -645,6 +645,36 @@
         }
     },
     {
+        "Size": 25,
+        "FormType": "SMB",
+        "MarketingName": "25oz Small Mouth Bottle",
+        "PrintImageDimensions": {
+            "Width": 2738,
+            "Height": 3020,
+        },
+        "ArtBoardDimensions": {
+            "Width": 2738,
+            "Height": 3020,
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
+        "DecorationProofWidthOnVirtual": 999,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "Personalization": {
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 2,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "SMB_25_wrap_mask",
+            "Vignette": "",
+            "Base": "SMB_25oz_base2",
+            "Print": {
+                "InDesign": "25SMB-cstm-printColorInFront.idml"
+            }
+        }
+    },
+    {
         "Size": 87,
         "FormType": "ICE",
         "MarketingName": "Ice Bucket",
