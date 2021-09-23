@@ -458,7 +458,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
         "DecorationProofWidthOnVirtual": 1034,
-        "VignettePositionStepAmountToRotateBy90Degrees": 9,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21,
         "TervisLogoSplitPosition": {
             "TopOffset": 2267,
             "LeftOffset": 0,
