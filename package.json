@@ -8,7 +8,7 @@
     "url": "https://github.com/Tervis-Tumbler/TervisProductMetadata"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "@tervis/tervisutilityjs": "^0.1.12"
   }
 }
