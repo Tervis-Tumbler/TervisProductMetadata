@@ -683,5 +683,23 @@
             "MaximumSideCount": 1,
             "SupportedFontName": ["Monogram"]
         }
+    },
+    {
+        "Size": 20,
+        "FormType": "VIT",
+        "ImageTemplateName": {
+            "Print": {
+                "InDesign": "20VIT-cstm-print.idml"
+            }
+        }
+    },
+    {
+        "Size": 30,
+        "FormType": "VIT",
+        "ImageTemplateName": {
+            "Print": {
+                "InDesign": "30VIT-cstm-print.idml"
+            }
+        }
     }
 ]
