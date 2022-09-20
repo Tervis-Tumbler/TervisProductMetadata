@@ -687,6 +687,18 @@
     {
         "Size": 20,
         "FormType": "VIT",
+        "MarketingName": "New 20oz Stainless Steel",
+        "PrintImageDimensions": {
+            "Width": 2972,
+            "Height": 2010
+        },
+        "ArtBoardDimensions": {
+            "Width": 2972,
+            "Height": 2010
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 666,
+        "DecorationProofWidthOnVirtual": 1046,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21,
         "ImageTemplateName": {
             "Print": {
                 "InDesign": "20VIT-cstm-print.idml"
@@ -696,6 +708,18 @@
     {
         "Size": 30,
         "FormType": "VIT",
+        "MarketingName": "New 30oz Stainless Steel",
+        "PrintImageDimensions": {
+            "Width": 3396,
+            "Height": 2369
+        },
+        "ArtBoardDimensions": {
+            "Width": 3396,
+            "Height": 2369
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
+        "DecorationProofWidthOnVirtual": 1034,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21,
         "ImageTemplateName": {
             "Print": {
                 "InDesign": "30VIT-cstm-print.idml"
