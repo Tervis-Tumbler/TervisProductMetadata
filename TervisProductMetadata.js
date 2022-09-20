@@ -14,7 +14,7 @@ export async function Get_TervisProductMetaData() {
         var fetch = window.fetch
     }
 
-    var $VersionOfProductMetaData = "1.0.51";
+    var $VersionOfProductMetaData = "1.0.52";
 
     var $ProductMetadata = await fetch(
         `https://unpkg.com/@tervis/tervisproductmetadata@${$VersionOfProductMetaData}/TervisProductMetadata.json`

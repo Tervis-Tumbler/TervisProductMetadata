@@ -698,7 +698,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 666,
         "DecorationProofWidthOnVirtual": 1046,
-        "VignettePositionStepAmountToRotateBy90Degrees": 21,
+        "VignettePositionStepAmountToRotateBy90Degrees": 18.5,
         "ImageTemplateName": {
             "Print": {
                 "InDesign": "20VIT-cstm-print.idml"
@@ -719,7 +719,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
         "DecorationProofWidthOnVirtual": 1034,
-        "VignettePositionStepAmountToRotateBy90Degrees": 21,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.5,
         "ImageTemplateName": {
             "Print": {
                 "InDesign": "30VIT-cstm-print.idml"
