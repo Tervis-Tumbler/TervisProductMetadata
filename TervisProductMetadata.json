@@ -700,6 +700,10 @@
         "DecorationProofWidthOnVirtual": 1046,
         "VignettePositionStepAmountToRotateBy90Degrees": 18.5,
         "ImageTemplateName": {
+            "Final": "",
+            "Mask": "VIT_20oz_wrap_mask",
+            "Vignette": "",
+            "Base": "VIT_20oz_base2",
             "Print": {
                 "InDesign": "20VIT-cstm-print.idml"
             }
@@ -721,6 +725,10 @@
         "DecorationProofWidthOnVirtual": 1034,
         "VignettePositionStepAmountToRotateBy90Degrees": 21.5,
         "ImageTemplateName": {
+            "Final": "",
+            "Mask": "VIT_30oz_wrap_mask",
+            "Vignette": "",
+            "Base": "VIT_30oz_base2",
             "Print": {
                 "InDesign": "30VIT-cstm-print.idml"
             }
