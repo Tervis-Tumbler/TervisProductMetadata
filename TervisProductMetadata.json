@@ -132,7 +132,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 715,
         "DecorationProofWidthOnVirtual": 1038,
-        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "VignettePositionStepAmountToRotateBy90Degrees": 15,
         "OrderNumberPosition": {
             "Height": 1488,
             "Width": 50
@@ -188,7 +188,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 705,
         "DecorationProofWidthOnVirtual": 1044,
-        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "VignettePositionStepAmountToRotateBy90Degrees": 16,
         "OrderNumberPosition": {
             "Height": 1696,
             "Width": 50
@@ -236,7 +236,7 @@
         "DecorationProofCenterPointYRelativeToVirtualBackground": 853,
         "DecorationProofCenterPointXRelativeToVirtualBackground": 498,
         "DecorationProofWidthOnVirtual": 923,
-        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17.25,
         "OrderNumberPosition": {
             "Height": 1062,
             "Width": 150
@@ -331,7 +331,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 670,
         "DecorationProofWidthOnVirtual": 1053,
-        "VignettePositionStepAmountToRotateBy90Degrees": 8,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17.52,
         "OrderNumberPosition": {
             "Height": 2165,
             "Width": 50
@@ -371,7 +371,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 631,
         "DecorationProofWidthOnVirtual": 1054,
-        "VignettePositionStepAmountToRotateBy90Degrees": 5.625,
+        "VignettePositionStepAmountToRotateBy90Degrees": 16.24,
         "OrderNumberPosition": {
             "Height": 2181,
             "Width": 50
@@ -411,7 +411,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 851,
         "DecorationProofWidthOnVirtual": 1095,
-        "VignettePositionStepAmountToRotateBy90Degrees": 21,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
@@ -432,7 +432,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 716,
         "DecorationProofWidthOnVirtual": 844,
-        "VignettePositionStepAmountToRotateBy90Degrees": 15.784,
+        "VignettePositionStepAmountToRotateBy90Degrees": 15.76,
         "ImageTemplateName": {
             "Final": "",
             "Mask": "SS_17oz_wrap_mask",
@@ -458,7 +458,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
         "DecorationProofWidthOnVirtual": 1034,
-        "VignettePositionStepAmountToRotateBy90Degrees": 21,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
         "TervisLogoSplitPosition": {
             "TopOffset": 2267,
             "LeftOffset": 0,
@@ -493,7 +493,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 666,
         "DecorationProofWidthOnVirtual": 1046,
-        "VignettePositionStepAmountToRotateBy90Degrees": 21,
+        "VignettePositionStepAmountToRotateBy90Degrees": 18.72,
         "TervisLogoSplitPosition": {
             "TopOffset": 1916,
             "LeftOffset": 0,
@@ -568,7 +568,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
         "DecorationProofWidthOnVirtual": 999,
-        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17.84,
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
@@ -598,7 +598,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
         "DecorationProofWidthOnVirtual": 999,
-        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
@@ -628,7 +628,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
         "DecorationProofWidthOnVirtual": 999,
-        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.52,
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
@@ -658,7 +658,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 700,
         "DecorationProofWidthOnVirtual": 999,
-        "VignettePositionStepAmountToRotateBy90Degrees": 17.9,
+        "VignettePositionStepAmountToRotateBy90Degrees": 17,
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
@@ -698,7 +698,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 666,
         "DecorationProofWidthOnVirtual": 1046,
-        "VignettePositionStepAmountToRotateBy90Degrees": 18.5,
+        "VignettePositionStepAmountToRotateBy90Degrees": 18.72,
         "ImageTemplateName": {
             "Final": "",
             "Mask": "VIT_20oz_wrap_mask",
@@ -723,7 +723,7 @@
         },
         "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
         "DecorationProofWidthOnVirtual": 1034,
-        "VignettePositionStepAmountToRotateBy90Degrees": 21.5,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
         "ImageTemplateName": {
             "Final": "",
             "Mask": "VIT_30oz_wrap_mask",
