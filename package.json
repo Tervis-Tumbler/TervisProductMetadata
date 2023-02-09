@@ -1,6 +1,6 @@
 {
   "name": "@tervis/tervisproductmetadata",
-  "version": "1.0.55",
+  "version": "1.0.56",
   "main": "TervisProductMetadata.js",
   "type": "module",
   "repository": {
