@@ -705,7 +705,8 @@
             "Vignette": "",
             "Base": "VIT_20oz_base2",
             "Print": {
-                "InDesign": "20VIT-cstm-print.idml"
+                "InDesign": "20VIT-cstm-print.idml",
+                "InDesign_FGBackground": "20VIT-cstm-print-cmyk.idml"
             }
         }
     },
@@ -730,7 +731,8 @@
             "Vignette": "",
             "Base": "VIT_30oz_base2",
             "Print": {
-                "InDesign": "30VIT-cstm-print.idml"
+                "InDesign": "30VIT-cstm-print.idml",
+                "InDesign_FGBackground": "30VIT-cstm-print-cmyk.idml"
             }
         }
     }
