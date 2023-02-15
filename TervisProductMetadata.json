@@ -352,7 +352,8 @@
             "Base": "24oz_base2",
             "Print": {
                 "Scene7": "24_cstm_print",
-                "InDesign": "24DWT-cstm-print.idml"
+                "InDesign": "24DWT-cstm-print.idml",
+                "InDesign_FGBackground": "24DWT-cstm-print-cmyk.idml"
             },
             "DiecutterCalibrationCheckLine": "24DWTDiecutterCalibrationCheckLine"
         }
@@ -572,7 +573,7 @@
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
-            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script","Script V","Block U/L V"]
         },
         "ImageTemplateName": {
             "Final": "",
@@ -602,7 +603,7 @@
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
-            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script","Script V","Block U/L V"]
         },
         "ImageTemplateName": {
             "Final": "",
@@ -632,7 +633,7 @@
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 2,
-            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script","Script V","Block U/L V"]
         },
         "ImageTemplateName": {
             "Final": "",
@@ -699,6 +700,11 @@
         "DecorationProofCenterPointYRelativeToVirtualBackground": 666,
         "DecorationProofWidthOnVirtual": 1046,
         "VignettePositionStepAmountToRotateBy90Degrees": 18.72,
+        "Personalization": {
+            "MaximumSideCount": 1,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
         "ImageTemplateName": {
             "Final": "",
             "Mask": "VIT_20oz_wrap_mask",
@@ -725,6 +731,11 @@
         "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
         "DecorationProofWidthOnVirtual": 1034,
         "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
+        "Personalization": {
+            "MaximumSideCount": 1,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
         "ImageTemplateName": {
             "Final": "",
             "Mask": "VIT_30oz_wrap_mask",
