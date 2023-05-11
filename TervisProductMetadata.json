@@ -164,9 +164,9 @@
         "MarketingName": "12oz Tumbler",
         "VignettePositionStepAmountToRotateBy90Degrees": 8,
         "Personalization": {
-            "MaximumSideCount": 2,
-            "MaximumLineCount": 2,
-            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+            "MaximumSideCount": 1,
+            "MaximumLineCount": 1,
+            "SupportedFontName": ["Monogram"]
         }
     },
     {
