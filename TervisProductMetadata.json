@@ -768,9 +768,9 @@
             "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
         "ImageTemplateName": {
-            "Final": "",
+            "Final": "24PIB_wrap_final",
             "Mask": "PIB_24oz_wrap_mask",
-            "Vignette": "",
+            "Vignette": "24PIB_Warp_trans",
             "Base": "PIB_24oz_base2",
             "Print": {
                 "InDesign": "24PIB-cstm-print.idml",
