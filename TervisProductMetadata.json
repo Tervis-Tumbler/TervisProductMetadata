@@ -763,7 +763,7 @@
         "DecorationProofWidthOnVirtual": 1034,
         "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
         "Personalization": {
-            "MaximumSideCount": 1,
+            "MaximumSideCount": 2,
             "MaximumLineCount": 3,
             "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
         },
