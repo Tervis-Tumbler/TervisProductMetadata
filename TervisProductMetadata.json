@@ -777,5 +777,67 @@
                 "InDesign_FGBackground": "24PIB-cstm-print-cmyk.idml"
             }
         }
+    },
+    {
+        "Size": 26,
+        "FormType": "VIB",
+        "MarketingName": "",
+        "PrintImageDimensions": {
+            "Width": 2894,
+            "Height": 2516
+        },
+        "ArtBoardDimensions": {
+            "Width": 2894,
+            "Height": 2516
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
+        "DecorationProofWidthOnVirtual": 1034,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
+        "Personalization": {
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "VIB_26oz_wrap_mask",
+            "Vignette": "",
+            "Base": "VIB_26oz_base2",
+            "Print": {
+                "InDesign": "26VIB-cstm-print.idml",
+                "InDesign_FGBackground": ""
+            }
+        }
+    },
+    {
+        "Size": 36,
+        "FormType": "VIB",
+        "MarketingName": "",
+        "PrintImageDimensions": {
+            "Width": 3266,
+            "Height": 2858
+        },
+        "ArtBoardDimensions": {
+            "Width": 3266,
+            "Height": 2858
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
+        "DecorationProofWidthOnVirtual": 1034,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
+        "Personalization": {
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+        },
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "VIB_36oz_wrap_mask",
+            "Vignette": "",
+            "Base": "VIB_36oz_base2",
+            "Print": {
+                "InDesign": "36VIB-cstm-print.idml",
+                "InDesign_FGBackground": ""
+            }
+        }
     }
 ]
