@@ -796,7 +796,7 @@
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 3,
-            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script","Script V","Block U/L V"]
         },
         "ImageTemplateName": {
             "Final": "",
@@ -827,7 +827,7 @@
         "Personalization": {
             "MaximumSideCount": 2,
             "MaximumLineCount": 3,
-            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script"]
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script","Script V","Block U/L V"]
         },
         "ImageTemplateName": {
             "Final": "",
