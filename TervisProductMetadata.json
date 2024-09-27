@@ -839,5 +839,35 @@
                 "InDesign_FGBackground": ""
             }
         }
+    },{
+        "Size": 40,
+        "FormType": "VIT",
+        "MarketingName": "",
+        "PrintImageDimensions": {
+            "Width": 3318,
+            "Height": 3003
+        },
+        "ArtBoardDimensions": {
+            "Width": 3318,
+            "Height": 3003
+        },
+        "DecorationProofCenterPointYRelativeToVirtualBackground": 656,
+        "DecorationProofWidthOnVirtual": 1034,
+        "VignettePositionStepAmountToRotateBy90Degrees": 21.28,
+        "Personalization": {
+            "MaximumSideCount": 2,
+            "MaximumLineCount": 3,
+            "SupportedFontName": ["Script","Block U/L","Monogram","Initials Block","Initials Script","Script V","Block U/L V"]
+        },
+        "ImageTemplateName": {
+            "Final": "",
+            "Mask": "VIT_40oz_wrap_mask",
+            "Vignette": "",
+            "Base": "VIT_40oz_base2",
+            "Print": {
+                "InDesign": "40VIT-cstm-print.idml",
+                "InDesign_FGBackground": ""
+            }
+        }
     }
 ]
